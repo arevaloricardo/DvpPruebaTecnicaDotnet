@@ -7,7 +7,7 @@
 # Api Restful .Net | Prueba Técnica
 
 
-<div align="center">
+<div >
     <img src="https://img.shields.io/badge/.Net-9.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
 <img src="https://img.shields.io/badge/Entity Framework-9.0.1-red?labelColor=3e2bd1&color=black" alt="NPM Version" />
 <img src="https://img.shields.io/badge/Swagger-7.2.0-red?labelColor=85ea2d&color=black" alt="NPM Version" />
