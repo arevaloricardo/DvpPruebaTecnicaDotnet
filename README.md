@@ -1,21 +1,7 @@
 
-<p style="display: flex; justify-content: center; gap: 1rem; margin-top: 2.5rem ">
+<p align="center>
   <img src="https://cdn.prod.website-files.com/659d68c6da3f511b9d5f58f7/65b9585a085656d99065862f_Logo-double-v-partners.png" width="120" alt="Nest Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_bg_2020.png" width="120" alt="Nest Logo" />
-</p>
-
-  <p align="center">A progressive <a href="https://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 </p>
 
 # Api Restful .Net | Prueba Técnica
@@ -23,16 +9,11 @@
 ___
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
-    <img src="https://img.shields.io/badge/.Net-9.0-red?labelColor=7455dd&color=black
-" alt="NPM Version" />
-<img src="https://img.shields.io/badge/Entity Framework-9.0.1-red?labelColor=3e2bd1&color=black
-" alt="NPM Version" />
-<img src="https://img.shields.io/badge/Swagger-7.2.0-red?labelColor=85ea2d&color=black
-" alt="NPM Version" />
-<img src="https://img.shields.io/badge/Docker-9.0.0-red?labelColor=7455dd&color=black
-" alt="NPM Version" />
-<img src="https://img.shields.io/badge/SQL Server-9.0.0-red?labelColor=7455dd&color=black
-" alt="NPM Version" />
+    <img src="https://img.shields.io/badge/.Net-9.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
+<img src="https://img.shields.io/badge/Entity Framework-9.0.1-red?labelColor=3e2bd1&color=black" alt="NPM Version" />
+<img src="https://img.shields.io/badge/Swagger-7.2.0-red?labelColor=85ea2d&color=black" alt="NPM Version" />
+<img src="https://img.shields.io/badge/Docker-9.0.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
+<img src="https://img.shields.io/badge/SQL Server-9.0.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
 </div>
 
 
