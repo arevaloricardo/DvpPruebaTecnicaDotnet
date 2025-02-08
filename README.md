@@ -6,7 +6,6 @@
 
 # Api Restful .Net | Prueba Técnica
 
-___
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
     <img src="https://img.shields.io/badge/.Net-9.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
@@ -20,11 +19,11 @@ ___
 
 ### Descripción
 Api Rest desarrollada en .Net Core 9.0, con Entity Framework, Swagger, Docker y SQL Server. Se aplicaron principios S.O.L.I.D, arquitectura hexagonal y buenas prácticas de programación. 
-___
+
 ### Requisitos
 - [.Net 9.0](https://dotnet.microsoft.com/es-es/download)
 - [Docker](https://www.docker.com/)
-___
+
 ### Instalación
 
 1. Clonar el repositorio
