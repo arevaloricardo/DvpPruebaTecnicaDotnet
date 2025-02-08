@@ -35,7 +35,7 @@ git clone https://github.com/arevaloricardo/DvpPruebaTecnicaDotnet.git
 2. Ingresar a la carpeta del proyecto
 
 ```bash
-cd DvpPruebaTecnica.Api
+cd DvpPruebaTecnica
 ```
 
 3. Ejecutar el proyecto. (Se creará una imagen de docker con el proyecto y una imagen de SQL Server)
