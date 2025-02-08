@@ -29,7 +29,7 @@ Api Rest desarrollada en .Net Core 9.0, con Entity Framework, Swagger, Docker y 
 1. Clonar el repositorio
 
 ```bash
-git clone "nombre del repositorio"
+git clone https://github.com/arevaloricardo/DvpPruebaTecnicaDotnet.git
 ```
 
 2. Ingresar a la carpeta del proyecto
