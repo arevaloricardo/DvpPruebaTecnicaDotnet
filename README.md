@@ -47,6 +47,6 @@ docker-compose up -d
 4. Ingresar a la url para ver documentación de la API
 
 ```bash
-http://localhost:5000/swagger/index.html
+http://localhost:{Puerto}/swagger/index.html
 ```
 
