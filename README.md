@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/.Net-9.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
 <img src="https://img.shields.io/badge/Entity Framework-9.0.1-red?labelColor=3e2bd1&color=black" alt="NPM Version" />
 <img src="https://img.shields.io/badge/Swagger-7.2.0-red?labelColor=85ea2d&color=black" alt="NPM Version" />
-<img src="https://img.shields.io/badge/Docker-9.0.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
-<img src="https://img.shields.io/badge/SQL Server-9.0.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
+<img src="https://img.shields.io/badge/Docker-2.32.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
+<img src="https://img.shields.io/badge/SQL Server-16.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
 </div>
 
 
