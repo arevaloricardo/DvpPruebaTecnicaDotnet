@@ -1,13 +1,13 @@
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/659d68c6da3f511b9d5f58f7/65b9585a085656d99065862f_Logo-double-v-partners.png" width="120" alt="Nest Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_bg_2020.png" width="120" alt="Nest Logo" />
+  <img src="https://cdn.prod.website-files.com/659d68c6da3f511b9d5f58f7/65b9585a085656d99065862f_Logo-double-v-partners.png" width="150" alt="Double V Partner Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_bg_2020.png" width="150" alt="Banco Guayaquil Logo" />
 </p>
 
 # Api Restful .Net | Prueba Técnica
 
 
-<div style="display: flex; gap: 5px; flex-wrap: wrap">
+<div align="center">
     <img src="https://img.shields.io/badge/.Net-9.0-red?labelColor=7455dd&color=black" alt="NPM Version" />
 <img src="https://img.shields.io/badge/Entity Framework-9.0.1-red?labelColor=3e2bd1&color=black" alt="NPM Version" />
 <img src="https://img.shields.io/badge/Swagger-7.2.0-red?labelColor=85ea2d&color=black" alt="NPM Version" />
