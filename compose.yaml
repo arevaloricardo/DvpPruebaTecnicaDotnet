@@ -1,0 +1,6 @@
+﻿services:
+  dvppruebatecnica.api:
+    image: dvppruebatecnica.api
+    build:
+      context: .
+      dockerfile: DvpPruebaTecnica.Api/Dockerfile
