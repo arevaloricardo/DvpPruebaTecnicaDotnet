@@ -9,12 +9,19 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1"/>
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
     </ItemGroup>
 
     <ItemGroup>
       <Content Include="..\.dockerignore">
         <Link>.dockerignore</Link>
       </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DvpPruebaTecnica.Application\DvpPruebaTecnica.Application.csproj" />
+      <ProjectReference Include="..\DvpPruebaTecnica.Domain\DvpPruebaTecnica.Domain.csproj" />
+      <ProjectReference Include="..\DvpPruebaTecnica.Infrastructure\DvpPruebaTecnica.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>

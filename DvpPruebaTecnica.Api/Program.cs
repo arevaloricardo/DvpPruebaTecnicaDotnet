@@ -12,6 +12,11 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "Dvp Prueba Técnica API");
+        options.DocumentTitle = "Swagger | Dvp Prueba Técnica API";
+    });
 }
 
 app.UseHttpsRedirection();
