@@ -2,7 +2,7 @@
 
 namespace DvpPruebaTecnica.Domain.Entities;
 
-public class Person: AuditableEntity
+public class Person: BaseEntity
 {
     public string FirstNames { get; set; }
     public string LastNames { get; set; }

@@ -4,13 +4,13 @@ namespace DvpPruebaTecnica.Domain.Interfaces;
 
 public interface IPersonRepository
 {
-    Task<Person> GetByIdAsync(Guid id);
-    Task<IEnumerable<Person>> GetAllAsync(int page, int size);
-    Task<int> GetTotalCountAsync();
-    Task AddAsync(Person person);
-    Task UpdateAsync(Person person);
-    Task DeleteAsync(Person person);
-    Task<IEnumerable<Person>> AutocompleteAsync(string search);
-    Task<IEnumerable<Person>> GetPersonsFromStoredProcedureAsync();
+    Task<Person> GetById(Guid id);
+    Task<IEnumerable<Person>> GetAll(int page, int size);
+    Task<int> GetTotalCount();
+    Task Add(Person person);
+    Task Update(Person person);
+    Task Delete(Person person);
+    Task<IEnumerable<Person>> Autocomplete(string search);
+    Task<IEnumerable<Person>> GetPersonsFromStoredProcedure();
     
 }

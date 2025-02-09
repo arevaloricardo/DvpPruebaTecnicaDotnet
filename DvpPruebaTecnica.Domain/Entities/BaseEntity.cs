@@ -1,7 +1,12 @@
-﻿namespace DvpPruebaTecnica.Domain.Entities;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-public abstract class AuditableEntity
+namespace DvpPruebaTecnica.Domain.Entities;
+
+public abstract class BaseEntity
 {
+    [Key]
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public Guid Id { get; set; }
     public DateTime CreatedAt { get; set; }
     public string? CreatedBy { get; set; }

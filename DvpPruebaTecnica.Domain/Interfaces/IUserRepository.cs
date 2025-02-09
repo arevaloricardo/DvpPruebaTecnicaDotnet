@@ -4,12 +4,12 @@ namespace DvpPruebaTecnica.Domain.Interfaces;
 
 public interface IUserRepository
 {
-    Task<User> GetByIdAsync(Guid id);
-    Task<IEnumerable<User>> GetAllAsync(int page, int size);
-    Task<int> GetTotalCountAsync();
-    Task AddAsync(User user);
-    Task UpdateAsync(User user);
-    Task DeleteAsync(User user);
-    Task<IEnumerable<User>> AutocompleteAsync(string search);
-    Task<User> GetByUsernameAsync(string user);
+    Task<User> GetById(Guid id);
+    Task<IEnumerable<User>> GetAll(int page, int size);
+    Task<int> GetTotalCount();
+    Task Add(User user);
+    Task Update(User user);
+    Task Delete(User user);
+    Task<IEnumerable<User>> Autocomplete(string search);
+    Task<User> GetByUsername(string user);
 }

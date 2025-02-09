@@ -13,12 +13,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include="..\.dockerignore">
-        <Link>.dockerignore</Link>
-      </Content>
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\DvpPruebaTecnica.Application\DvpPruebaTecnica.Application.csproj" />
       <ProjectReference Include="..\DvpPruebaTecnica.Domain\DvpPruebaTecnica.Domain.csproj" />
       <ProjectReference Include="..\DvpPruebaTecnica.Infrastructure\DvpPruebaTecnica.Infrastructure.csproj" />
